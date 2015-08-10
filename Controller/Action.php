@@ -18,7 +18,7 @@
  * @license    http://framework.zend.com/license/new-bsd     New BSD License
  * @version    $Id: Action.php 22792 2010-08-05 18:30:27Z matthew $
  */
-//domekeczek 2
+//house 2
 /**
  * @see Zend_Controller_Action_HelperBroker
  */
