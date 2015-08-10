@@ -19,7 +19,7 @@
  * @license    http://framework.zend.com/license/new-bsd     New BSD License
  * @version    $Id: Interface.php 20096 2010-01-06 02:05:09Z bkarwin $
  */
-//house 1
+//house and more 1
 /**
  * @category   Zend
  * @package    Zend_Controller
