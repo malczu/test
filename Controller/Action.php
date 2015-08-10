@@ -18,12 +18,12 @@
  * @license    http://framework.zend.com/license/new-bsd     New BSD License
  * @version    $Id: Action.php 22792 2010-08-05 18:30:27Z matthew $
  */
-//house and more 2
+//What
 /**
  * @see Zend_Controller_Action_HelperBroker
  */
 
-//blablabla
+//hey ho
 /**
  * @see Zend_Controller_Action_Interface
  */
